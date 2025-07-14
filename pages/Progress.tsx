@@ -231,7 +231,7 @@ const Progress: React.FC = () => {
                                 </LineChart>
                             </ResponsiveContainer>
                         </div>
-                    ) : selectedExercise && <p className="text-center text-gray-400">Necesitas más registros.</p>}
+                    ) : selectedExercise && <p className="text-center text-gray-400">Necesitas más registros.</p>
                 </Card>
 
                  <Card>
