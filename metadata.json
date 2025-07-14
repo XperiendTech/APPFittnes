@@ -1,0 +1,8 @@
+{
+  "name": "Hypertik: AI Fitness & Nutrition Coach",
+  "description": "An intuitive, science-based web app that empowers users to achieve their body composition goals (muscle gain, fat loss, or maintenance) through personalized training and nutrition, guided by an AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
